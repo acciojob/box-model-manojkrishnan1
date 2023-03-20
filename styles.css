@@ -1,18 +1,18 @@
 #green{
 	padding:25px;
-	background-color:#0B8010;
+	background-color:green;
 	width:0px;
 	border-radius:25px;
 }
 #yellow{
 	padding:25px;
-	background-color:#FFFE30;
+	background-color:yellow;
 	width:0px;
 	border-radius:25px;
 }
 #red{
 	padding:25px;
-	background-color:#FD0017;
+	background-color:red;
 	width:0px;
 	border-radius:25px;
 }
